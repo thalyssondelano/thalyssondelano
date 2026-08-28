@@ -25,6 +25,7 @@ I'm a Full Stack Developer with a strong back-end focus. I specialize in buildin
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ### Some Projects
 - **[Django OAuth2 Template](https://github.com/thalyssondelano/django-oauth2.0-template):** Production-ready authentication boilerplate for Django APIs, featuring automated CI/CD pipelines and security best practices.
