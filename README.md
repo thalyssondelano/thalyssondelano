@@ -34,3 +34,6 @@ I'm a Full Stack Developer with a strong back-end focus. I specialize in buildin
 - **[Django OAuth2 Template](https://github.com/thalyssondelano/django-oauth2.0-template):** Production-ready authentication boilerplate for Django APIs, featuring automated CI/CD pipelines and security best practices.
 - **[Simplee](https://github.com/thalyssondelano/simplee-web):** Scalable full-stack social platform featuring a strongly typed Node.js/Express backend, PostgreSQL, and Google Cloud infrastructure.
 - **[Industrial IoT Telemetry](https://github.com/thalyssondelano/cip-monitoring-firmware):** C/C++ and FreeRTOS firmware architecture developed for real-time sensor data collection and telemetry in a large-scale industrial environment.
+  
+ 
+  ![](https://komarev.com/ghpvc/?username=thalyssondelano&abbreviated=true)
