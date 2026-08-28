@@ -26,6 +26,8 @@ I'm a Full Stack Developer with a strong back-end focus. I specialize in buildin
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thalyssondelano&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=thalyssondelano&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=highcontrast)
+
 ### Some Projects
 - **[Django OAuth2 Template](https://github.com/thalyssondelano/django-oauth2.0-template):** Production-ready authentication boilerplate for Django APIs, featuring automated CI/CD pipelines and security best practices.
 - **[Simplee](https://github.com/thalyssondelano/simplee-web):** Scalable full-stack social platform featuring a strongly typed Node.js/Express backend, PostgreSQL, and Google Cloud infrastructure.
