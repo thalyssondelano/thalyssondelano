@@ -7,7 +7,7 @@ I'm a Full Stack Developer with a strong back-end focus. I specialize in buildin
 - 💻 **Main Tech Stack:** Python, Django, JavaScript/TypeScript, C/C++
 - ⚙️ **Interests:** Backend Architecture, Embedded Systems, Cybersecurity, PC Gaming
 - 🎓 **Currently:** Systems Analysis and Development student at IFPI
-- 📫 **Let's connect:** Open for work and collaborations at [contato.thalyssondel@gmail.com](contato.thalyssondel@gmail.com)
+- 📫 **Let's connect:** Open for work and collaborations at [contato.thalyssondel@gmail.com](mailto:contato.thalyssondel@gmail.com)
 
 ### Tech Stack
 
