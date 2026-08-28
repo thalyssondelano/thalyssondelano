@@ -27,6 +27,7 @@ I'm a Full Stack Developer with a strong back-end focus. I specialize in buildin
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thalyssondelano&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=thalyssondelano&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=thalyssondelano&layout=compact&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=thalyssondelano&layout=compact&langs_count=4&theme=blue_navy)
 
 ### Some Projects
 - **[Django OAuth2 Template](https://github.com/thalyssondelano/django-oauth2.0-template):** Production-ready authentication boilerplate for Django APIs, featuring automated CI/CD pipelines and security best practices.
